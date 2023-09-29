@@ -1,34 +1,40 @@
 # Portfolio Website
 
 Welcome to my portfolio website! This repository contains the source code and content for my personal website, where I showcase my skills, projects, and experiences.
-Link :- 
+[Link to portfolio Website](https://keshaw007.github.io/portfolio/)
 
 ## Table of Contents
 
 - [About Me](#about-me)
-- [skill](#portfolio)
-- [Education/CV](#resume-cv)
-- [Project](#skills)
+- [Resume/CV](#resume-cv)
+- [Skill](#Skill)
 - [Contact](#contact)
 
 ## About Me
 
 In this section, I introduce myself and provide a brief overview of my background, education, and professional journey. Feel free to explore this section to get to know me better.
+Hi, I'm Keshaw Kumar, a final-year Computer Science Engineering student at IIIT Nagpur with a passion for programming and problem-solving. I have a strong foundation in core programming concepts and a desire to continue learning and growing in the ever-evolving field of technology.
 
-## Portfolio
+Up to this point in my academic career, I have worked on a variety of projects that have helped me to refine my skills in software development, data structures and algorithms, web development, ML, Cloud Computing, etc. I am skilled in front-end web development tools including HTML, CSS, and JavaScript, as well as programming languages like C, C++ and Python. I am also a ML enthusiast and have very little experience in the cyber security domain.
 
-My portfolio section showcases a selection of my best work. Here, you'll find a variety of projects that highlight my skills and expertise. Each project includes a title, description, and links or images to demonstrate my work.
+My goal is to leverage my skills and knowledge to make a positive impact in the IT industry. I am excited about the prospect of working with a team of experienced developers and contributing to innovative projects that push the boundaries of what is possible with technology.
 
-#PORTFOLIO
 ## Resume/CV
 
-You can download my latest resume or CV in PDF format from [here]([link-to-resume.pdf](https://drive.google.com/file/d/1YBen2zism1URRG8XhNnGrgr87b61HLar/view?usp=share_link)). It includes detailed information about my education, work experience, and skills.
+You can download my latest resume or CV in PDF format from [Link to Resume](https://drive.google.com/file/d/1YBen2zism1URRG8XhNnGrgr87b61HLar/view?usp=share_link) . It includes detailed information about my education, work experience, and skills.
 
 ## Skills
 
 I have a diverse skill set that includes both technical and soft skills. Here are some of the key skills I possess:
 - Machine Learning
+- C/C++
+- Python
+- DSA
 - Web Development (HTML, CSS, JavaScript)
+- SQL
+- OOP
+- DBMS
+- OS
 - Content Writing and Editing
 - Project Management
 - Team Collaboration
