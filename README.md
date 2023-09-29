@@ -7,7 +7,7 @@ Welcome to my portfolio website! This repository contains the source code and co
 
 - [About Me](#about-me)
 - [Resume/CV](#resume-cv)
-- [Skill](#Skill)
+- [Skills](#Skills)
 - [Contact](#contact)
 
 ## About Me
